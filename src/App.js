@@ -42,7 +42,7 @@ class App extends Component {
             <div className="container">
               <a href="/">
                 <h1 style={{ marginTop: "200px", color: "whitesmoke" }}>
-                  Fancy Quote
+                  Best Suited course for you, Just one click away
                 </h1>
               </a>
             </div>
