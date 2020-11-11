@@ -1,9 +1,8 @@
-Student_ID,Semster_Name,Paper 1,Paper 2,Paper 3,Paper 4,Paper 5,Paper 6,Paper 7,,Paper 1 Average,Paper 2 Average,Paper 3 Average,Paper 4 Average,Paper 5 Average
-SID20131143,Sem_2,92,57,91,84,80,66,54,,69.70840021,68.87182911,69.56549692,69.51294369,69.08333333
+Student_ID,Semster_Name,Paper 1,Paper 2,Paper 3,Paper 4,Paper 5,Paper 6,Paper 7,
 SID20131151,Sem_2,69,40,88,85,62,52,95,,,,,,
 SID20131171,Sem_2,75,83,60,83,49,92,64,,,,,,
-SID20131176,Sem_2,57,87,99,98,50,46,50,,,Paper 6 Average,Paper 7 Average,,
-SID20131177,Sem_2,67,,59,98,51,58,89,,,68.87409783,69.54947707,,
+SID20131176,Sem_2,57,87,99,98,50,46,50,,,,,
+SID20131177,Sem_2,67,,59,98,51,58,89,,,,,
 SID20131184,Sem_2,85,70,59,58,59,47,59,,,,,,
 SID20131189,Sem_2,96,57,49,41,51,47,40,,,,,,
 SID20131191,Sem_2,62,52,71,56,87,71,77,,,,,,
